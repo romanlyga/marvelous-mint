@@ -1,6 +1,6 @@
 # ✨ Starter Nextjs Theme ✨
 
-111This is Stackbit's "Starter" theme built with [Next.js](https://nextjs.org/) and
+This is Stackbit's "Starter" theme built with [Next.js](https://nextjs.org/) and
 powered by content stored in files.
 
 Click the button below to create a new website from this theme using Stackbit:
